@@ -4,6 +4,7 @@
 
 - <b>C++</b>
   - [Game of Nim](https://github.com/josephtfox/Game-of-Nim)
+  - [Math Challenge](https://github.com/josephtfox/MathChallenge)
 - <b>Python</b>
   - [Address Book](https://github.com/josephtfox/AddressBook)
   - [Side Scroller Game (Pygame)](https://github.com/josephtfox/Side-Scroll-Game)
