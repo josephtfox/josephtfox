@@ -9,7 +9,7 @@
   - [Address Book](https://github.com/josephtfox/AddressBook)
   - [Side Scroller Game (Pygame)](https://github.com/josephtfox/Side-Scroll-Game)
 - <b>Web Development</b>
-  -[Three Page Website (Game Day Central)](https://github.com/josephtfox/GamedayCentralWebsite)
+  - [Three Page Website (Game Day Central)](https://github.com/josephtfox/GamedayCentralWebsite)
   
 <h2>🔒 Cybersecurity Projects:</h2>
   
