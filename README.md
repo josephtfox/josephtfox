@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joseph Fox</h1>
 <h3 align="center">Im a dedicated Software Engineer with two years of professional experience and currently pursuing a Masters in Computer Science from Georgia Tech.</h3>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h1 align="center"> Technology Stack </h1>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
