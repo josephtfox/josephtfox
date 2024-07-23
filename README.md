@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joseph Fox</h1>
 <h3 align="center">Im a dedicated Software Engineer with two years of professional experience and currently pursuing a Masters in Computer Science from Georgia Tech.</h3>
 
-- 📫 How to reach me **josephtfox@gmail.com**
-
 <h1 align="center"> Technology Stack </h1>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
