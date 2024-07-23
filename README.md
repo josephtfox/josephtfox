@@ -2,7 +2,7 @@
 <h3 align="center">Im a dedicated Software Engineer with two years of professional experience and currently pursuing a Masters in Computer Science from Georgia Tech.</h3>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephtfox)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center"> Technology Stack </h1>
 <h2 align="left">Connect with me:</h2>
