@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Fox</h1>
-<h3 align="center">A passionate Software Engineer from Lexington, Kentucky</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 📫 How to reach me **josephtfox@gmail.com**
 
