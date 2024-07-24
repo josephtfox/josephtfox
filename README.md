@@ -1,10 +1,17 @@
 ![Image Alt Text](https://github.com/josephtfox/extra-files/blob/main/banner.png)
 <h3 align="center">Im a dedicated Software Engineer with two years of professional experience and currently pursuing a Masters in Computer Science from Georgia Tech.</h3>
 
+<h2 align="left"> What I'm Working on</h2>
+<h2 align="right"> Featured Projects </h2>
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephtfox)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center"> Technology Stack </h1>
+<h2 align="center"> Technology Stack </h2>
+
+
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/jtfox07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jtfox07" height="30" width="40" /></a>
