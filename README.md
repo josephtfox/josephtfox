@@ -31,10 +31,7 @@ Brief description of Project 2.
 </div>
 
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephtfox)](https://github.com/anuraghazra/github-readme-stats)
-
-<h2 align="center"> Technology Stack </h2>
 
 
 
