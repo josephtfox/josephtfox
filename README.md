@@ -3,6 +3,11 @@
 
 <h1 align="center"> 🚀 Featured Projects </h1>
 
+- Data Analytics
+- AI/Machine Learning
+- Automation
+- Cyber Security
+
 
 <h1 align="center"> 💻 Skills </h1>
 
