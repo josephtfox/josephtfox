@@ -5,15 +5,12 @@
 
 <div style="flex: 50%; padding-right: 10px;">
 
-## 🚀 Projects
+<h2 align="center"> 🚀 Projects </h2>
 
 ### Project 1
-[![Project 1](https://via.placeholder.com/150)](https://github.com/your-username/project-1)
-Brief description of Project 1.
+
 
 ### Project 2
-[![Project 2](https://via.placeholder.com/150)](https://github.com/your-username/project-2)
-Brief description of Project 2.
 
 </div>
 
