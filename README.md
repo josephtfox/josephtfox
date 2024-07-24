@@ -1,20 +1,7 @@
 ![Image Alt Text](https://github.com/josephtfox/extra-files/blob/main/banner.png)
 <h3 align="center">Im a dedicated Software Engineer with two years of professional experience and currently pursuing a Masters in Computer Science from Georgia Tech.</h3>
 
-<div style="display: flex;">
-
-<div style="flex: 50%; padding-right: 10px;">
-
 <h1 align="center"> 🚀 Projects </h1>
-
-### Project 1
-
-
-### Project 2
-
-</div>
-
-<div style="flex: 50%; padding-left: 10px;">
 
 <h1 align="center"> 💻 Skills </h1>
 
