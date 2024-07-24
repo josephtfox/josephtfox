@@ -5,7 +5,7 @@
 
 <div style="flex: 50%; padding-right: 10px;">
 
-<h2 align="center"> 🚀 Projects </h2>
+<h1 align="center"> 🚀 Projects </h1>
 
 ### Project 1
 
@@ -16,7 +16,7 @@
 
 <div style="flex: 50%; padding-left: 10px;">
 
-## 💻 Skills
+<h1 align="center"> 💻 Skills </h1>
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
