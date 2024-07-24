@@ -1,4 +1,3 @@
-//<h1 align="center">Hi 👋, I'm Joseph Fox</h1>
 [![Image Alt Text](https://github.com/josephtfox/extra-files/blob/main/banner.png)]
 <h3 align="center">Im a dedicated Software Engineer with two years of professional experience and currently pursuing a Masters in Computer Science from Georgia Tech.</h3>
 
