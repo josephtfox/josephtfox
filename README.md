@@ -1,25 +1,37 @@
 ![Image Alt Text](https://github.com/josephtfox/extra-files/blob/main/banner.png)
 <h3 align="center">Im a dedicated Software Engineer with two years of professional experience and currently pursuing a Masters in Computer Science from Georgia Tech.</h3>
 
+# My GitHub Profile
+
+Welcome to my GitHub profile! Here you can find information about my projects and skills.
+
 <div style="display: flex;">
+
 <div style="flex: 50%; padding-right: 10px;">
 
-### Left Column Header
-Content for the left column goes here. You can use Markdown syntax within the HTML.
+## 🚀 Projects
 
-- List item 1
-- List item 2
+### Project 1
+[![Project 1](https://via.placeholder.com/150)](https://github.com/your-username/project-1)
+Brief description of Project 1.
+
+### Project 2
+[![Project 2](https://via.placeholder.com/150)](https://github.com/your-username/project-2)
+Brief description of Project 2.
 
 </div>
+
 <div style="flex: 50%; padding-left: 10px;">
 
-### Right Column Header
-Content for the right column goes here.
+## 💻 Skills
 
-1. Numbered item 1
-2. Numbered item 2
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 </div>
+
 </div>
 
 
