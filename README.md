@@ -1,31 +1,26 @@
 ![Image Alt Text](https://github.com/josephtfox/extra-files/blob/main/banner.png)
 <h3 align="center">Im a dedicated Software Engineer with two years of professional experience and currently pursuing a Masters in Computer Science from Georgia Tech.</h3>
 
-<table>
-<tr>
-<td width="50%">
+<div style="display: flex;">
+<div style="flex: 50%; padding-right: 10px;">
 
-## 🚀 Projects
+### Left Column Header
+Content for the left column goes here. You can use Markdown syntax within the HTML.
 
-### Project 1
-Brief description of Project 1
+- List item 1
+- List item 2
 
-### Project 2
-Brief description of Project 2
+</div>
+<div style="flex: 50%; padding-left: 10px;">
 
-</td>
-<td width="50%">
+### Right Column Header
+Content for the right column goes here.
 
-## 💻 Skills
+1. Numbered item 1
+2. Numbered item 2
 
-- Python
-- JavaScript
-- Machine Learning
-- Data Analysis
-
-</td>
-</tr>
-</table>
+</div>
+</div>
 
 
 
