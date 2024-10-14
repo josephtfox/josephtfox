@@ -2,6 +2,9 @@
 <h3 align="center">Im a dedicated Software Engineer with two years of professional experience and currently pursuing a Masters in Computer Science from Georgia Tech.</h3>
 
 <h1 align="center"> 🚀 Featured Projects </h1>
+<h3 align="center"> Web Development </h3>
+<h5> Gameday Central Website</h5>
+<p> - </p>
 
 
 <h1 align="center"> 💻 Skills </h1>
