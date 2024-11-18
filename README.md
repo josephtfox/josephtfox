@@ -5,7 +5,8 @@
 <h3 align="center"> Web Development </h3>
 <h5> Gameday Central Website</h5>
 <p> - </p>
-
+<h3 align="center"> Data Engineering </h3>
+<h3 align="center"> Cyber Security </h3>
 
 <h1 align="center"> 💻 Skills </h1>
 
