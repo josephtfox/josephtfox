@@ -6,7 +6,8 @@
 <h5> Gameday Central Website</h5>
 <p> - </p>
 <h3 align="center"> Data Engineering </h3>
-<h5 href="https://github.com/josephtfox/Drone-Tracking-Kalman-Filter"> Drone Tracking Kalman Filter</h5>
+<h5> Drone Tracking Kalman Filter</h5>
+https://github.com/josephtfox/Drone-Tracking-Kalman-Filter
 
 
 <h3 align="center"> Cyber Security </h3>
