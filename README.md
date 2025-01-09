@@ -3,7 +3,7 @@
 <h3 align="center">Im a dedicated Software Engineer with two years of professional experience and currently pursuing a Masters in Computer Science from Georgia Tech.</h3>
 
 <h1 align="center"> 🚀 Featured Projects </h1>
-<h3 align="center"> Web Development </h3>
+<!-- <h3 align="center"> Web Development </h3>
 <h5> Gameday Central Website</h5>
 <p> - </p>
 <h3 align="center"> Data Engineering </h3>
@@ -11,7 +11,7 @@
 
 
 <h3 align="center"> Cyber Security </h3>
-
+ -->
 <h1 align="center"> 💻 Skills </h1>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
