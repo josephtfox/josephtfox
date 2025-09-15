@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=1000&color=1EAFFF&center=true&multiline=true&width=1000&height=100&lines=Joseph+Fox+-+Software+Engineer)](https://git.io/typing-svg)
 
-<h3 align="center">Im a dedicated Software Engineer with two years of professional experience and currently pursuing a Masters in Computer Science from Georgia Tech.</h3>
+<h3 align="center">Im a dedicated Software Engineer with three years of professional experience and currently pursuing a Masters in Computer Science from Georgia Tech.</h3>
 
 <h1 align="center"> 🚀 Featured Projects </h1>
 <!-- <h3 align="center"> Web Development </h3>
